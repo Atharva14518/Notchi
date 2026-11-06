@@ -1,0 +1,5950 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "": {},
+    " %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " %lld"
+          }
+        }
+      }
+    },
+    " · 360p": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": " · 360p"
+          }
+        }
+      }
+    },
+    "%@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@"
+          }
+        }
+      }
+    },
+    "%@ %lld%@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@ %2$lld%3$@"
+          }
+        }
+      }
+    },
+    "%@ Files": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ Files"
+          }
+        }
+      }
+    },
+    "%@ Files.zip": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ Files.zip"
+          }
+        }
+      }
+    },
+    "%@ checks every second and when you return. Once macOS confirms access for this process, this status turns green and the tour continues automatically.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ checks every second and when you return. Once macOS confirms access for this process, this status turns green and the tour continues automatically."
+          }
+        }
+      }
+    },
+    "%@ moved or can’t be read. Add it again, then retry.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ moved or can’t be read. Add it again, then retry."
+          }
+        }
+      }
+    },
+    "%@ range": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ range"
+          }
+        }
+      }
+    },
+    "%@ saved": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ saved"
+          }
+        }
+      }
+    },
+    "%@ seconds": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ seconds"
+          }
+        }
+      }
+    },
+    "%@, %@%@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$@, %2$@%3$@"
+          }
+        }
+      }
+    },
+    "%lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld"
+          }
+        }
+      }
+    },
+    "%lld days": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld days"
+          }
+        }
+      }
+    },
+    "%lld of %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$lld of %2$lld"
+          }
+        }
+      }
+    },
+    "%lld percent": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld percent"
+          }
+        }
+      }
+    },
+    "%lld text regions": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld text regions"
+          }
+        }
+      }
+    },
+    "%lld%%": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld%%"
+          }
+        }
+      }
+    },
+    "%lld%% smaller": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld%% smaller"
+          }
+        }
+      }
+    },
+    "%lld%% uploaded": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld%% uploaded"
+          }
+        }
+      }
+    },
+    "%lld%% · %lld px": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "%1$lld%% · %2$lld px"
+          }
+        }
+      }
+    },
+    "%lldd left": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lldd left"
+          }
+        }
+      }
+    },
+    "%lldh left": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lldh left"
+          }
+        }
+      }
+    },
+    "%lldm left": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lldm left"
+          }
+        }
+      }
+    },
+    "%llds left": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%llds left"
+          }
+        }
+      }
+    },
+    "+%lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "+%lld"
+          }
+        }
+      }
+    },
+    ", %lld%% smaller": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ", %lld%% smaller"
+          }
+        }
+      }
+    },
+    ", larger": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ", larger"
+          }
+        }
+      }
+    },
+    ", same size": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ", same size"
+          }
+        }
+      }
+    },
+    "1 day": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 day"
+          }
+        }
+      }
+    },
+    "1 hour": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 hour"
+          }
+        }
+      }
+    },
+    "1 · Drop": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1 · Drop"
+          }
+        }
+      }
+    },
+    "1–20,000 px. Preserves proportions.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1–20,000 px. Preserves proportions."
+          }
+        }
+      }
+    },
+    "2 · Convert": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "2 · Convert"
+          }
+        }
+      }
+    },
+    "24 hours": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "24 hours"
+          }
+        }
+      }
+    },
+    "25%": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "25%"
+          }
+        }
+      }
+    },
+    "3 · Share": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 · Share"
+          }
+        }
+      }
+    },
+    "30 days": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "30 days"
+          }
+        }
+      }
+    },
+    "50%": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "50%"
+          }
+        }
+      }
+    },
+    "7 days": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "7 days"
+          }
+        }
+      }
+    },
+    "8–128 characters": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "8–128 characters"
+          }
+        }
+      }
+    },
+    "A PDF page has invalid dimensions.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A PDF page has invalid dimensions."
+          }
+        }
+      }
+    },
+    "A file moved or went offline. Add it to the shelf again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A file moved or went offline. Add it to the shelf again."
+          }
+        }
+      }
+    },
+    "A file operation is still running": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A file operation is still running"
+          }
+        }
+      }
+    },
+    "A little less paper.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A little less paper."
+          }
+        }
+      }
+    },
+    "A switch for an older app copy does not necessarily approve this build. Quit other copies. Remove the old entry with −, click +, and add the exact app above again. If macOS asks you to quit and reopen, finish or cancel any running task, quit from %@’s menu bar, then reopen this same app.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A switch for an older app copy does not necessarily approve this build. Quit other copies. Remove the old entry with −, click +, and add the exact app above again. If macOS asks you to quit and reopen, finish or cancel any running task, quit from %@’s menu bar, then reopen this same app."
+          }
+        }
+      }
+    },
+    "A tiny home for the files you’re moving between apps. Drop them at the top of your screen, make a quick edit, then send them on.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A tiny home for the files you’re moving between apps. Drop them at the top of your screen, make a quick edit, then send them on."
+          }
+        }
+      }
+    },
+    "ABOUT": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ABOUT"
+          }
+        }
+      }
+    },
+    "ACCESSIBILITY": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ACCESSIBILITY"
+          }
+        }
+      }
+    },
+    "About": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "About"
+          }
+        }
+      }
+    },
+    "Accessibility confirmed for this app": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accessibility confirmed for this app"
+          }
+        }
+      }
+    },
+    "Accessibility for WhatsApp": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accessibility for WhatsApp"
+          }
+        }
+      }
+    },
+    "Accessibility not yet confirmed": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accessibility not yet confirmed"
+          }
+        }
+      }
+    },
+    "Accessibility troubleshooting": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accessibility troubleshooting"
+          }
+        }
+      }
+    },
+    "Accessibility unconfirmed. Open permission help.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Accessibility unconfirmed. Open permission help."
+          }
+        }
+      }
+    },
+    "Actions": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actions"
+          }
+        }
+      }
+    },
+    "Actions match your file": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Actions match your file"
+          }
+        }
+      }
+    },
+    "Add ${files} to the shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add ${files} to the shelf"
+          }
+        }
+      }
+    },
+    "Add a page": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add a page"
+          }
+        }
+      }
+    },
+    "Add files": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add files"
+          }
+        }
+      }
+    },
+    "Add files from Shortcuts to the shelf without opening the panel. Incoming temporary files are retained as app-owned imports.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add files from Shortcuts to the shelf without opening the panel. Incoming temporary files are retained as app-owned imports."
+          }
+        }
+      }
+    },
+    "Add files to %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add files to %@"
+          }
+        }
+      }
+    },
+    "Add pages": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add pages"
+          }
+        }
+      }
+    },
+    "Add this exact app": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add this exact app"
+          }
+        }
+      }
+    },
+    "Add this file to the shelf before sharing it.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add this file to the shelf before sharing it."
+          }
+        }
+      }
+    },
+    "Add to Shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add to Shelf"
+          }
+        }
+      }
+    },
+    "Add to shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Add to shelf"
+          }
+        }
+      }
+    },
+    "Adding…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Adding…"
+          }
+        }
+      }
+    },
+    "All files": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "All files"
+          }
+        }
+      }
+    },
+    "Already enabled, but still not working?": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Already enabled, but still not working?"
+          }
+        }
+      }
+    },
+    "Always within reach": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Always within reach"
+          }
+        }
+      }
+    },
+    "Another action is running. Try again shortly.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Another action is running. Try again shortly."
+          }
+        }
+      }
+    },
+    "Apply": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Apply"
+          }
+        }
+      }
+    },
+    "Ask each time": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ask each time"
+          }
+        }
+      }
+    },
+    "Auto-clear": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto-clear"
+          }
+        }
+      }
+    },
+    "Auto-clear days": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auto-clear days"
+          }
+        }
+      }
+    },
+    "B&W": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "B&W"
+          }
+        }
+      }
+    },
+    "Back": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Back"
+          }
+        }
+      }
+    },
+    "Balanced": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Balanced"
+          }
+        }
+      }
+    },
+    "Best": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Best"
+          }
+        }
+      }
+    },
+    "Build a document": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Build a document"
+          }
+        }
+      }
+    },
+    "Bundled media engine is missing.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bundled media engine is missing."
+          }
+        }
+      }
+    },
+    "CREDITS": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CREDITS"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel"
+          }
+        }
+      }
+    },
+    "Cancel this draft and retry.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancel this draft and retry."
+          }
+        }
+      }
+    },
+    "Cancelled": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cancelled"
+          }
+        }
+      }
+    },
+    "Capture": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capture"
+          }
+        }
+      }
+    },
+    "Capture cancelled. Pick another source whenever you’re ready.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capture cancelled. Pick another source whenever you’re ready."
+          }
+        }
+      }
+    },
+    "Check for updates": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check for updates"
+          }
+        }
+      }
+    },
+    "Check now": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check now"
+          }
+        }
+      }
+    },
+    "Check the range": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check the range"
+          }
+        }
+      }
+    },
+    "Check your email": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check your email"
+          }
+        }
+      }
+    },
+    "Check your email address.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Check your email address."
+          }
+        }
+      }
+    },
+    "Choose": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose"
+          }
+        }
+      }
+    },
+    "Choose WhatsApp, then tap Send. With Accessibility confirmed, %@ opens WhatsApp, prepares the files as documents and opens its recipient picker. Search or select your contacts there, then press WhatsApp’s Send yourself. %@ never chooses recipients or sends a message for you.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Choose WhatsApp, then tap Send. With Accessibility confirmed, %1$@ opens WhatsApp, prepares the files as documents and opens its recipient picker. Search or select your contacts there, then press WhatsApp’s Send yourself. %2$@ never chooses recipients or sends a message for you."
+          }
+        }
+      }
+    },
+    "Choose a different name or location to keep the originals in place.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose a different name or location to keep the originals in place."
+          }
+        }
+      }
+    },
+    "Choose a file first.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose a file first."
+          }
+        }
+      }
+    },
+    "Choose a resize percentage between 1 and 100.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose a resize percentage between 1 and 100."
+          }
+        }
+      }
+    },
+    "Choose a sharing service.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose a sharing service."
+          }
+        }
+      }
+    },
+    "Choose a video size preset, change format, extract audio, trim or mute. Audio has conversion and compression actions. Availability depends on the bundled media engine and supported formats. A size target can require a lower resolution; check the final output size before sending.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose a video size preset, change format, extract audio, trim or mute. Audio has conversion and compression actions. Availability depends on the bundled media engine and supported formats. A size target can require a lower resolution; check the final output size before sending."
+          }
+        }
+      }
+    },
+    "Choose an area. Escape cancels.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose an area. Escape cancels."
+          }
+        }
+      }
+    },
+    "Choose an end after the start, within the clip’s duration.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose an end after the start, within the clip’s duration."
+          }
+        }
+      }
+    },
+    "Choose an input file or a shelf file, not both.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose an input file or a shelf file, not both."
+          }
+        }
+      }
+    },
+    "Choose another way to attach these files.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose another way to attach these files."
+          }
+        }
+      }
+    },
+    "Choose at least one file.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose at least one file."
+          }
+        }
+      }
+    },
+    "Choose files, then a destination": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose files, then a destination"
+          }
+        }
+      }
+    },
+    "Choose how you want to open your shelf. These preferences can be changed later from the gear inside the notch or the menu-bar Settings item.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose how you want to open your shelf. These preferences can be changed later from the gear inside the notch or the menu-bar Settings item."
+          }
+        }
+      }
+    },
+    "Choose recipients": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose recipients"
+          }
+        }
+      }
+    },
+    "Choose recipients and press Send in WhatsApp.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose recipients and press Send in WhatsApp."
+          }
+        }
+      }
+    },
+    "Choose where it goes.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose where it goes."
+          }
+        }
+      }
+    },
+    "Choose where to save a copy.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose where to save a copy."
+          }
+        }
+      }
+    },
+    "Clear Shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clear Shelf"
+          }
+        }
+      }
+    },
+    "Clear shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clear shelf"
+          }
+        }
+      }
+    },
+    "Clear shortcut": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clear shortcut"
+          }
+        }
+      }
+    },
+    "Clear the shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Clear the shelf"
+          }
+        }
+      }
+    },
+    "Click + and select the app shown below. You can use Copy app path, then press ⌘⇧G in the file chooser and paste it. Turn on the switch beside the app.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Click + and select the app shown below. You can use Copy app path, then press ⌘⇧G in the file chooser and paste it. Turn on the switch beside the app."
+          }
+        }
+      }
+    },
+    "Click Open Settings. In System Settings, go to Privacy & Security → Accessibility and unlock with your password or Touch ID if asked.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Click Open Settings. In System Settings, go to Privacy & Security → Accessibility and unlock with your password or Touch ID if asked."
+          }
+        }
+      }
+    },
+    "Click the shortcut recorder, then press a key with Command, Control or Option. Escape cancels recording; Delete clears it. The shortcut and menu bar work even when hover is switched off.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Click the shortcut recorder, then press a key with Command, Control or Option. Escape cancels recording; Delete clears it. The shortcut and menu bar work even when hover is switched off."
+          }
+        }
+      }
+    },
+    "Close": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Close"
+          }
+        }
+      }
+    },
+    "Code copied!": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Code copied!"
+          }
+        }
+      }
+    },
+    "Color": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Color"
+          }
+        }
+      }
+    },
+    "Compact": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compact"
+          }
+        }
+      }
+    },
+    "Complete": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Complete"
+          }
+        }
+      }
+    },
+    "Compress ${shelfFile} with ${preset}": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compress ${shelfFile} with ${preset}"
+          }
+        }
+      }
+    },
+    "Compress File": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compress File"
+          }
+        }
+      }
+    },
+    "Compress an input file or a shelf file. With neither selected, use the latest shelf file. Images/PDFs use Tiny, Balanced or Best; other documents become ZIP archives.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compress an input file or a shelf file. With neither selected, use the latest shelf file. Images/PDFs use Tiny, Balanced or Best; other documents become ZIP archives."
+          }
+        }
+      }
+    },
+    "Compress latest": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compress latest"
+          }
+        }
+      }
+    },
+    "Compress my latest file with %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compress my latest file with %@"
+          }
+        }
+      }
+    },
+    "Compress? Convert? Send?": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compress? Convert? Send?"
+          }
+        }
+      }
+    },
+    "Compression": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Compression"
+          }
+        }
+      }
+    },
+    "Connect WhatsApp safely": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connect WhatsApp safely"
+          }
+        }
+      }
+    },
+    "Connection failed. Try again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connection failed. Try again."
+          }
+        }
+      }
+    },
+    "Connection lost. Try again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Connection lost. Try again."
+          }
+        }
+      }
+    },
+    "Continue": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Continue"
+          }
+        }
+      }
+    },
+    "Convert ${shelfFile} to ${targetFormat}": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Convert ${shelfFile} to ${targetFormat}"
+          }
+        }
+      }
+    },
+    "Convert File": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Convert File"
+          }
+        }
+      }
+    },
+    "Convert an input file or a shelf file. Leave both empty to use the latest card. Images and media use the same formats and engines as the shelf.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Convert an input file or a shelf file. Leave both empty to use the latest card. Images and media use the same formats and engines as the shelf."
+          }
+        }
+      }
+    },
+    "Convert latest": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Convert latest"
+          }
+        }
+      }
+    },
+    "Copied": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copied"
+          }
+        }
+      }
+    },
+    "Copy": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy"
+          }
+        }
+      }
+    },
+    "Copy app path": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy app path"
+          }
+        }
+      }
+    },
+    "Copy code": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy code"
+          }
+        }
+      }
+    },
+    "Copy link": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy link"
+          }
+        }
+      }
+    },
+    "Copy path": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy path"
+          }
+        }
+      }
+    },
+    "Copy text": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy text"
+          }
+        }
+      }
+    },
+    "Couldn’t change launch at login. %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t change launch at login. %@"
+          }
+        }
+      }
+    },
+    "Couldn’t compress a PDF page.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t compress a PDF page."
+          }
+        }
+      }
+    },
+    "Couldn’t confirm the attachment selection. No Send button was pressed. Use Show files or retry.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t confirm the attachment selection. No Send button was pressed. Use Show files or retry."
+          }
+        }
+      }
+    },
+    "Couldn’t copy the attachments. Try Save to… instead.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t copy the attachments. Try Save to… instead."
+          }
+        }
+      }
+    },
+    "Couldn’t copy those files. Please try again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t copy those files. Please try again."
+          }
+        }
+      }
+    },
+    "Couldn’t create the PDF. Your scan pages are still here—please try again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t create the PDF. Your scan pages are still here—please try again."
+          }
+        }
+      }
+    },
+    "Couldn’t create the new PDF.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t create the new PDF."
+          }
+        }
+      }
+    },
+    "Couldn’t encode a PDF page.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t encode a PDF page."
+          }
+        }
+      }
+    },
+    "Couldn’t install the shortcut handler (%d).": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t install the shortcut handler (%d)."
+          }
+        }
+      }
+    },
+    "Couldn’t prepare a metadata-free image.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t prepare a metadata-free image."
+          }
+        }
+      }
+    },
+    "Couldn’t process this media. It may be damaged, protected, or use an unsupported stream.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t process this media. It may be damaged, protected, or use an unsupported stream."
+          }
+        }
+      }
+    },
+    "Couldn’t read a finite duration from this file. Try a different copy.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t read a finite duration from this file. Try a different copy."
+          }
+        }
+      }
+    },
+    "Couldn’t read that file URL.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t read that file URL."
+          }
+        }
+      }
+    },
+    "Couldn’t read that image. Try a PNG, JPG, HEIC, or PDF.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t read that image. Try a PNG, JPG, HEIC, or PDF."
+          }
+        }
+      }
+    },
+    "Couldn’t read that link.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t read that link."
+          }
+        }
+      }
+    },
+    "Couldn’t read that text.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t read that text."
+          }
+        }
+      }
+    },
+    "Couldn’t receive that attachment.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t receive that attachment."
+          }
+        }
+      }
+    },
+    "Couldn’t remember that folder. Please choose it again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t remember that folder. Please choose it again."
+          }
+        }
+      }
+    },
+    "Couldn’t render a PDF page.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t render a PDF page."
+          }
+        }
+      }
+    },
+    "Couldn’t restore the upload.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t restore the upload."
+          }
+        }
+      }
+    },
+    "Couldn’t restore your shelf. The saved index has been kept.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t restore your shelf. The saved index has been kept."
+          }
+        }
+      }
+    },
+    "Couldn’t save a split page.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t save a split page."
+          }
+        }
+      }
+    },
+    "Couldn’t save settings.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t save settings."
+          }
+        }
+      }
+    },
+    "Couldn’t save the merged PDF.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t save the merged PDF."
+          }
+        }
+      }
+    },
+    "Couldn’t save the shelf index. Your original files are safe.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t save the shelf index. Your original files are safe."
+          }
+        }
+      }
+    },
+    "Couldn’t send that. Try Copy or Save to… and attach it as a document. %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Couldn’t send that. Try Copy or Save to… and attach it as a document. %@"
+          }
+        }
+      }
+    },
+    "Creates a folder containing %lld files. Originals stay in place.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Creates a folder containing %lld files. Originals stay in place."
+          }
+        }
+      }
+    },
+    "Credits": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Credits"
+          }
+        }
+      }
+    },
+    "Credits unavailable": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Credits unavailable"
+          }
+        }
+      }
+    },
+    "Custom": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Custom"
+          }
+        }
+      }
+    },
+    "DEFAULTS": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "DEFAULTS"
+          }
+        }
+      }
+    },
+    "Days": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Days"
+          }
+        }
+      }
+    },
+    "Disconnected": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Disconnected"
+          }
+        }
+      }
+    },
+    "Display": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Display"
+          }
+        }
+      }
+    },
+    "Document edges are detected and corrected on your Mac. Choose Color, Grayscale or B&W, add more pages, and drag pages into order. Turn on Searchable text layer before Create PDF if you want text search in the result.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Document edges are detected and corrected on your Mac. Choose Color, Grayscale or B&W, add more pages, and drag pages into order. Turn on Searchable text layer before Create PDF if you want text search in the result."
+          }
+        }
+      }
+    },
+    "Document scanner": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Document scanner"
+          }
+        }
+      }
+    },
+    "Done": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Done"
+          }
+        }
+      }
+    },
+    "Download limit": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Download limit"
+          }
+        }
+      }
+    },
+    "Downloads": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Downloads"
+          }
+        }
+      }
+    },
+    "Drag files, folders, images, links or text toward the top of the screen. The shelf opens during a drag; drop several files together to add multiple cards. Each card shows a preview, name and size.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drag files, folders, images, links or text toward the top of the screen. The shelf opens during a drag; drop several files together to add multiple cards. Each card shows a preview, name and size."
+          }
+        }
+      }
+    },
+    "Drag pages to put them in order.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drag pages to put them in order."
+          }
+        }
+      }
+    },
+    "Drop from any app": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drop from any app"
+          }
+        }
+      }
+    },
+    "Drop it here": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drop it here"
+          }
+        }
+      }
+    },
+    "Drop it. Keep it handy.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drop it. Keep it handy."
+          }
+        }
+      }
+    },
+    "Dropped image": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dropped image"
+          }
+        }
+      }
+    },
+    "Dropped item": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dropped item"
+          }
+        }
+      }
+    },
+    "Duration: ": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Duration: "
+          }
+        }
+      }
+    },
+    "Email": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Email"
+          }
+        }
+      }
+    },
+    "Email link": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Email link"
+          }
+        }
+      }
+    },
+    "Enable Accessibility": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enable Accessibility"
+          }
+        }
+      }
+    },
+    "Enable Screen Recording, then retry.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Enable Screen Recording, then retry."
+          }
+        }
+      }
+    },
+    "Expired": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Expired"
+          }
+        }
+      }
+    },
+    "Expiry": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Expiry"
+          }
+        }
+      }
+    },
+    "Extract Text": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Extract Text"
+          }
+        }
+      }
+    },
+    "Extract text from ${shelfFile}": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Extract text from ${shelfFile}"
+          }
+        }
+      }
+    },
+    "FFmpeg · LAME · libvpx · Opus · Poppins": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "FFmpeg · LAME · libvpx · Opus · Poppins"
+          }
+        }
+      }
+    },
+    "FLAC": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "FLAC"
+          }
+        }
+      }
+    },
+    "Feed me files": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feed me files"
+          }
+        }
+      }
+    },
+    "File": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "File"
+          }
+        }
+      }
+    },
+    "File exceeds your size limit.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "File exceeds your size limit."
+          }
+        }
+      }
+    },
+    "File too large": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "File too large"
+          }
+        }
+      }
+    },
+    "File unavailable": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "File unavailable"
+          }
+        }
+      }
+    },
+    "Files": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Files"
+          }
+        }
+      }
+    },
+    "Files are ready. Open the app yourself, or show the files to attach them.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Files are ready. Open the app yourself, or show the files to attach them."
+          }
+        }
+      }
+    },
+    "Files copied. Choose a chat, then Attach → Document.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Files copied. Choose a chat, then Attach → Document."
+          }
+        }
+      }
+    },
+    "Files, folders and limits": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Files, folders and limits"
+          }
+        }
+      }
+    },
+    "Finder": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finder"
+          }
+        }
+      }
+    },
+    "Finding edges…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finding edges…"
+          }
+        }
+      }
+    },
+    "Finish or cancel first.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finish or cancel first."
+          }
+        }
+      }
+    },
+    "Finish or cancel in %@.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finish or cancel in %@."
+          }
+        }
+      }
+    },
+    "Finish or cancel the existing WhatsApp dialog or attachment draft, then retry.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finish or cancel the existing WhatsApp dialog or attachment draft, then retry."
+          }
+        }
+      }
+    },
+    "Finish the current operation, then try again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finish the current operation, then try again."
+          }
+        }
+      }
+    },
+    "Finish the upload first.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finish the upload first."
+          }
+        }
+      }
+    },
+    "Finishing…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Finishing…"
+          }
+        }
+      }
+    },
+    "Folder": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Folder"
+          }
+        }
+      }
+    },
+    "Folders are zipped automatically. Use Make ZIP when you want one archive. Every destination has its own file and size limits, so no app can promise every format will be accepted everywhere. %@ reports preparation failures; the destination owns the final send.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Folders are zipped automatically. Use Make ZIP when you want one archive. Every destination has its own file and size limits, so no app can promise every format will be accepted everywhere. %@ reports preparation failures; the destination owns the final send."
+          }
+        }
+      }
+    },
+    "Follow cursor": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Follow cursor"
+          }
+        }
+      }
+    },
+    "Format": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Format"
+          }
+        }
+      }
+    },
+    "Forward %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Forward %@"
+          }
+        }
+      }
+    },
+    "Full image": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Full image"
+          }
+        }
+      }
+    },
+    "GENERAL": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GENERAL"
+          }
+        }
+      }
+    },
+    "GIF": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "GIF"
+          }
+        }
+      }
+    },
+    "General": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "General"
+          }
+        }
+      }
+    },
+    "General controls hover timing, panel size and display. Shelf controls persistence, auto-clear and saving. Actions sets conversion defaults. Shortcuts changes your global key. About includes this tour and Credits. Reduce Motion follows your macOS accessibility preference.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "General controls hover timing, panel size and display. Shelf controls persistence, auto-clear and saving. Actions sets conversion defaults. Shortcuts changes your global key. About includes this tour and Credits. Reduce Motion follows your macOS accessibility preference."
+          }
+        }
+      }
+    },
+    "Get a link": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Get a link"
+          }
+        }
+      }
+    },
+    "Get link": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Get link"
+          }
+        }
+      }
+    },
+    "Give pages a scan look": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Give pages a scan look"
+          }
+        }
+      }
+    },
+    "Got something big?": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Got something big?"
+          }
+        }
+      }
+    },
+    "Grayscale": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grayscale"
+          }
+        }
+      }
+    },
+    "HEIC": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "HEIC"
+          }
+        }
+      }
+    },
+    "Help": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Help"
+          }
+        }
+      }
+    },
+    "Hide licenses": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hide licenses"
+          }
+        }
+      }
+    },
+    "High quality": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "High quality"
+          }
+        }
+      }
+    },
+    "Hindi unavailable": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hindi unavailable"
+          }
+        }
+      }
+    },
+    "Hover and drag-and-drop work without Accessibility. WhatsApp needs it so %@ can attach your files and open the recipient picker. You choose the contacts and press Send yourself.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hover and drag-and-drop work without Accessibility. WhatsApp needs it so %@ can attach your files and open the recipient picker. You choose the contacts and press Send yourself."
+          }
+        }
+      }
+    },
+    "Hover off": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hover off"
+          }
+        }
+      }
+    },
+    "Hover off. Use the menu bar or shortcut.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hover off. Use the menu bar or shortcut."
+          }
+        }
+      }
+    },
+    "Hover on": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hover on"
+          }
+        }
+      }
+    },
+    "Hungry. Files please.": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hungry. Files please."
+          }
+        }
+      }
+    },
+    "If WhatsApp needs attention": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "If WhatsApp needs attention"
+          }
+        }
+      }
+    },
+    "Import from iPhone": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Import from iPhone"
+          }
+        }
+      }
+    },
+    "Input file": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Input file"
+          }
+        }
+      }
+    },
+    "Instagram square": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Instagram square"
+          }
+        }
+      }
+    },
+    "Instagram story": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Instagram story"
+          }
+        }
+      }
+    },
+    "JPG": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "JPG"
+          }
+        }
+      }
+    },
+    "JPG; transparency becomes white.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "JPG; transparency becomes white."
+          }
+        }
+      }
+    },
+    "Keep WhatsApp signed in with a chat available, and let it stay in front while the picker is prepared. Cancel another open draft or file chooser first. If access is unconfirmed, open Permission help. WhatsApp updates can change its interface; if automation fails, use Show in Finder and attach the files with WhatsApp’s File/Document control.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep WhatsApp signed in with a chat available, and let it stay in front while the picker is prepared. Cancel another open draft or file chooser first. If access is unconfirmed, open Permission help. WhatsApp updates can change its interface; if automation fails, use Show in Finder and attach the files with WhatsApp’s File/Document control."
+          }
+        }
+      }
+    },
+    "Keep Working": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep Working"
+          }
+        }
+      }
+    },
+    "Keep both": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep both"
+          }
+        }
+      }
+    },
+    "Keep both cards": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep both cards"
+          }
+        }
+      }
+    },
+    "Keep files": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep files"
+          }
+        }
+      }
+    },
+    "Keep files in Shelf settings remembers references across launches. Original files must stay accessible. Auto-clear removes old cards only. Temporary results should be saved or dragged into a folder when you want to keep them.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep files in Shelf settings remembers references across launches. Original files must stay accessible. Auto-clear removes old cards only. Temporary results should be saved or dragged into a folder when you want to keep them."
+          }
+        }
+      }
+    },
+    "Keep the shelf open": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keep the shelf open"
+          }
+        }
+      }
+    },
+    "Key %u": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Key %u"
+          }
+        }
+      }
+    },
+    "Keychain access failed. Try again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keychain access failed. Try again."
+          }
+        }
+      }
+    },
+    "LINKS": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "LINKS"
+          }
+        }
+      }
+    },
+    "Launch at login": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Launch at login"
+          }
+        }
+      }
+    },
+    "Learn now, revisit anytime": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Learn now, revisit anytime"
+          }
+        }
+      }
+    },
+    "Let’s go": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Let’s go"
+          }
+        }
+      }
+    },
+    "Let’s scan up to 20 pages at a time. Split a larger document into smaller batches.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Let’s scan up to 20 pages at a time. Split a larger document into smaller batches."
+          }
+        }
+      }
+    },
+    "Licenses": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Licenses"
+          }
+        }
+      }
+    },
+    "Limit reached": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Limit reached"
+          }
+        }
+      }
+    },
+    "Link": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Link"
+          }
+        }
+      }
+    },
+    "Link copied": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Link copied"
+          }
+        }
+      }
+    },
+    "Link ready": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Link ready"
+          }
+        }
+      }
+    },
+    "Link revoked": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Link revoked"
+          }
+        }
+      }
+    },
+    "Links open only when you choose Open link.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Links open only when you choose Open link."
+          }
+        }
+      }
+    },
+    "Loading preview": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Loading preview"
+          }
+        }
+      }
+    },
+    "Loading…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Loading…"
+          }
+        }
+      }
+    },
+    "Local development rebuilds can change the app’s signing identity and invalidate an earlier approval. A stable signing certificate is needed for consistent approvals across updates. %@ cannot change macOS permission decisions itself.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Local development rebuilds can change the app’s signing identity and invalidate an earlier approval. A stable signing certificate is needed for consistent approvals across updates. %@ cannot change macOS permission decisions itself."
+          }
+        }
+      }
+    },
+    "Look": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Look"
+          }
+        }
+      }
+    },
+    "Looking for codes…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Looking for codes…"
+          }
+        }
+      }
+    },
+    "Looking good": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Looking good"
+          }
+        }
+      }
+    },
+    "M4A": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "M4A"
+          }
+        }
+      }
+    },
+    "MOV": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MOV"
+          }
+        }
+      }
+    },
+    "MP3": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MP3"
+          }
+        }
+      }
+    },
+    "MP4": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "MP4"
+          }
+        }
+      }
+    },
+    "Main display": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Main display"
+          }
+        }
+      }
+    },
+    "Make ZIP": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Make ZIP"
+          }
+        }
+      }
+    },
+    "Make files fit": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Make files fit"
+          }
+        }
+      }
+    },
+    "Make it yours": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Make it yours"
+          }
+        }
+      }
+    },
+    "Making a ZIP attachment…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Making a ZIP attachment…"
+          }
+        }
+      }
+    },
+    "Meet your new shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Meet your new shelf"
+          }
+        }
+      }
+    },
+    "More information": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "More information"
+          }
+        }
+      }
+    },
+    "More…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "More…"
+          }
+        }
+      }
+    },
+    "Move your pointer to the notch to open the shelf. On a display without a notch, use the floating pill at the top. It follows your cursor between displays unless you choose a fixed display.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Move your pointer to the notch to open the shelf. On a display without a notch, use the floating pill at the top. It follows your cursor between displays unless you choose a fixed display."
+          }
+        }
+      }
+    },
+    "My links": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "My links"
+          }
+        }
+      }
+    },
+    "Nearby devices": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nearby devices"
+          }
+        }
+      }
+    },
+    "Needs more light": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Needs more light"
+          }
+        }
+      }
+    },
+    "Never": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Never"
+          }
+        }
+      }
+    },
+    "New": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New"
+          }
+        }
+      }
+    },
+    "No QR code or barcode found. Try a closer, sharper image.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No QR code or barcode found. Try a closer, sharper image."
+          }
+        }
+      }
+    },
+    "No clear page edges found; using the full image. Try a contrasting background for a tighter crop.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No clear page edges found; using the full image. Try a contrasting background for a tighter crop."
+          }
+        }
+      }
+    },
+    "No images yet": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No images yet"
+          }
+        }
+      }
+    },
+    "No links yet": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No links yet"
+          }
+        }
+      }
+    },
+    "No output file was created.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No output file was created."
+          }
+        }
+      }
+    },
+    "No readable text found. Try a sharper image with larger, well-lit text.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No readable text found. Try a sharper image with larger, well-lit text."
+          }
+        }
+      }
+    },
+    "No shortcut": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No shortcut"
+          }
+        }
+      }
+    },
+    "No text found": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No text found"
+          }
+        }
+      }
+    },
+    "Notchi": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notchi"
+          }
+        }
+      }
+    },
+    "OPEN SHELF": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "OPEN SHELF"
+          }
+        }
+      }
+    },
+    "Off": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Off"
+          }
+        }
+      }
+    },
+    "On": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "On"
+          }
+        }
+      }
+    },
+    "One PDF page couldn’t be copied.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One PDF page couldn’t be copied."
+          }
+        }
+      }
+    },
+    "One PDF page couldn’t be read.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One PDF page couldn’t be read."
+          }
+        }
+      }
+    },
+    "One file is no longer available. You can drop it again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "One file is no longer available. You can drop it again."
+          }
+        }
+      }
+    },
+    "Open Accessibility settings": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Accessibility settings"
+          }
+        }
+      }
+    },
+    "Open Login Items": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Login Items"
+          }
+        }
+      }
+    },
+    "Open Scanner": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Scanner"
+          }
+        }
+      }
+    },
+    "Open Settings": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Settings"
+          }
+        }
+      }
+    },
+    "Open Shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Shelf"
+          }
+        }
+      }
+    },
+    "Open Shortcuts": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open Shortcuts"
+          }
+        }
+      }
+    },
+    "Open and pin the notch shelf.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open and pin the notch shelf."
+          }
+        }
+      }
+    },
+    "Open link ↗": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open link ↗"
+          }
+        }
+      }
+    },
+    "Open my shelf in %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open my shelf in %@"
+          }
+        }
+      }
+    },
+    "Open on hover": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open on hover"
+          }
+        }
+      }
+    },
+    "Open shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open shelf"
+          }
+        }
+      }
+    },
+    "Open shelf: %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open shelf: %@"
+          }
+        }
+      }
+    },
+    "Open source": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open source"
+          }
+        }
+      }
+    },
+    "Open the scanner’s source chooser.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open the scanner’s source chooser."
+          }
+        }
+      }
+    },
+    "Open the shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open the shelf"
+          }
+        }
+      }
+    },
+    "Opening %@…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Opening %@…"
+          }
+        }
+      }
+    },
+    "Originals": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Originals"
+          }
+        }
+      }
+    },
+    "PDF ready!": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PDF ready!"
+          }
+        }
+      }
+    },
+    "PNG": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "PNG"
+          }
+        }
+      }
+    },
+    "Page": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Page"
+          }
+        }
+      }
+    },
+    "Page %03d.pdf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Page %03d.pdf"
+          }
+        }
+      }
+    },
+    "Page %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Page %lld"
+          }
+        }
+      }
+    },
+    "Page %lld\n%@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Page %1$lld\n%2$@"
+          }
+        }
+      }
+    },
+    "Pages (%lld)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pages (%lld)"
+          }
+        }
+      }
+    },
+    "Panel size": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Panel size"
+          }
+        }
+      }
+    },
+    "Password": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Password"
+          }
+        }
+      }
+    },
+    "Permission help": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Permission help"
+          }
+        }
+      }
+    },
+    "Pin overlay": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pin overlay"
+          }
+        }
+      }
+    },
+    "Pixels": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pixels"
+          }
+        }
+      }
+    },
+    "Play or stop muted preview": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Play or stop muted preview"
+          }
+        }
+      }
+    },
+    "Playing muted": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Playing muted"
+          }
+        }
+      }
+    },
+    "Precise": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Precise"
+          }
+        }
+      }
+    },
+    "Preparing": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preparing"
+          }
+        }
+      }
+    },
+    "Preparing WhatsApp’s recipient picker…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preparing WhatsApp’s recipient picker…"
+          }
+        }
+      }
+    },
+    "Preparing attachments…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preparing attachments…"
+          }
+        }
+      }
+    },
+    "Preparing document attachments…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preparing document attachments…"
+          }
+        }
+      }
+    },
+    "Preparing file copies…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preparing file copies…"
+          }
+        }
+      }
+    },
+    "Preparing…": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preparing…"
+          }
+        }
+      }
+    },
+    "Preset": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preset"
+          }
+        }
+      }
+    },
+    "Press keys…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Press keys…"
+          }
+        }
+      }
+    },
+    "Preview unavailable; thumbnail shown": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Preview unavailable; thumbnail shown"
+          }
+        }
+      }
+    },
+    "Privacy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Privacy"
+          }
+        }
+      }
+    },
+    "Processed document preview": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Processed document preview"
+          }
+        }
+      }
+    },
+    "Progress": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Progress"
+          }
+        }
+      }
+    },
+    "QR & barcodes": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "QR & barcodes"
+          }
+        }
+      }
+    },
+    "QR / barcode": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "QR / barcode"
+          }
+        }
+      }
+    },
+    "Quality": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quality"
+          }
+        }
+      }
+    },
+    "Quit %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quit %@"
+          }
+        }
+      }
+    },
+    "Raster PDF; text and forms flatten.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Raster PDF; text and forms flatten."
+          }
+        }
+      }
+    },
+    "Read latest": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Read latest"
+          }
+        }
+      }
+    },
+    "Read my latest file with %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Read my latest file with %@"
+          }
+        }
+      }
+    },
+    "Read text": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Read text"
+          }
+        }
+      }
+    },
+    "Read text and codes": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Read text and codes"
+          }
+        }
+      }
+    },
+    "Read text from an image or PDF with on-device Vision OCR. Leave file choices empty to read the latest shelf card. English and Hindi depend on this macOS version’s Vision support.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Read text from an image or PDF with on-device Vision OCR. Leave file choices empty to read the latest shelf card. English and Hindi depend on this macOS version’s Vision support."
+          }
+        }
+      }
+    },
+    "Reading duration": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reading duration"
+          }
+        }
+      }
+    },
+    "Reading the tiny print…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reading the tiny print…"
+          }
+        }
+      }
+    },
+    "Reading…": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reading…"
+          }
+        }
+      }
+    },
+    "Recent suggestions": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recent suggestions"
+          }
+        }
+      }
+    },
+    "Recognized text and barcode regions": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recognized text and barcode regions"
+          }
+        }
+      }
+    },
+    "Record": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Record"
+          }
+        }
+      }
+    },
+    "Refresh": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Refresh"
+          }
+        }
+      }
+    },
+    "Relaxed": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Relaxed"
+          }
+        }
+      }
+    },
+    "Remove %@ from shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove %@ from shelf"
+          }
+        }
+      }
+    },
+    "Remove all shelf cards and saved references. Original files on disk remain untouched.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove all shelf cards and saved references. Original files on disk remain untouched."
+          }
+        }
+      }
+    },
+    "Remove from Shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove from Shelf"
+          }
+        }
+      }
+    },
+    "Remove from shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove from shelf"
+          }
+        }
+      }
+    },
+    "Remove scan page %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remove scan page %lld"
+          }
+        }
+      }
+    },
+    "Replace card": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Replace card"
+          }
+        }
+      }
+    },
+    "Replace source card": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Replace source card"
+          }
+        }
+      }
+    },
+    "Replay setup": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Replay setup"
+          }
+        }
+      }
+    },
+    "Reset folder": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset folder"
+          }
+        }
+      }
+    },
+    "Reset to defaults": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reset to defaults"
+          }
+        }
+      }
+    },
+    "Retry": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Retry"
+          }
+        }
+      }
+    },
+    "Return here to verify": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Return here to verify"
+          }
+        }
+      }
+    },
+    "Reveal in Finder": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reveal in Finder"
+          }
+        }
+      }
+    },
+    "Revoke a link first.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revoke a link first."
+          }
+        }
+      }
+    },
+    "Revoke link": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revoke link"
+          }
+        }
+      }
+    },
+    "Revoked": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Revoked"
+          }
+        }
+      }
+    },
+    "Roomy": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Roomy"
+          }
+        }
+      }
+    },
+    "SHELF": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SHELF"
+          }
+        }
+      }
+    },
+    "SIRI AND SHORTCUTS": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "SIRI AND SHORTCUTS"
+          }
+        }
+      }
+    },
+    "Save": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save"
+          }
+        }
+      }
+    },
+    "Save PDF": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save PDF"
+          }
+        }
+      }
+    },
+    "Save a copy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save a copy"
+          }
+        }
+      }
+    },
+    "Save copy": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save copy"
+          }
+        }
+      }
+    },
+    "Save folder": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save folder"
+          }
+        }
+      }
+    },
+    "Save to…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Save to…"
+          }
+        }
+      }
+    },
+    "Saved": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saved"
+          }
+        }
+      }
+    },
+    "Saving a copy…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saving a copy…"
+          }
+        }
+      }
+    },
+    "Scan": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scan"
+          }
+        }
+      }
+    },
+    "Scan page %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scan page %lld"
+          }
+        }
+      }
+    },
+    "Scan with %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scan with %@"
+          }
+        }
+      }
+    },
+    "Scan, read, create": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scan, read, create"
+          }
+        }
+      }
+    },
+    "Scanning": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Scanning"
+          }
+        }
+      }
+    },
+    "Searchable": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Searchable"
+          }
+        }
+      }
+    },
+    "Seconds": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Seconds"
+          }
+        }
+      }
+    },
+    "Select actions": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Select actions"
+          }
+        }
+      }
+    },
+    "Select at least two PDFs with ⌘-click.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Select at least two PDFs with ⌘-click."
+          }
+        }
+      }
+    },
+    "Select, move, remove": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Select, move, remove"
+          }
+        }
+      }
+    },
+    "Send": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send"
+          }
+        }
+      }
+    },
+    "Send %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send %@"
+          }
+        }
+      }
+    },
+    "Send files": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send files"
+          }
+        }
+      }
+    },
+    "Send it your way": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send it your way"
+          }
+        }
+      }
+    },
+    "Send with %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Send with %@"
+          }
+        }
+      }
+    },
+    "Sensitivity": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sensitivity"
+          }
+        }
+      }
+    },
+    "Service URL": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Service URL"
+          }
+        }
+      }
+    },
+    "Set your link service URL.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Set your link service URL."
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings"
+          }
+        }
+      }
+    },
+    "Settings…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Settings…"
+          }
+        }
+      }
+    },
+    "Shelf": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shelf"
+          }
+        }
+      }
+    },
+    "Shelf file": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shelf file"
+          }
+        }
+      }
+    },
+    "Shortcuts": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcuts"
+          }
+        }
+      }
+    },
+    "Shortcuts app": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcuts app"
+          }
+        }
+      }
+    },
+    "Shortcuts couldn’t read that file. Choose it again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shortcuts couldn’t read that file. Choose it again."
+          }
+        }
+      }
+    },
+    "Show Shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show Shelf"
+          }
+        }
+      }
+    },
+    "Show app": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show app"
+          }
+        }
+      }
+    },
+    "Show in Finder": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show in Finder"
+          }
+        }
+      }
+    },
+    "Show licenses": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Show licenses"
+          }
+        }
+      }
+    },
+    "Sign in to get links.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sign in to get links."
+          }
+        }
+      }
+    },
+    "Sign in with Apple": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sign in with Apple"
+          }
+        }
+      }
+    },
+    "Sign out": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sign out"
+          }
+        }
+      }
+    },
+    "Sign-in expired. Try again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sign-in expired. Try again."
+          }
+        }
+      }
+    },
+    "Signed in": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Signed in"
+          }
+        }
+      }
+    },
+    "Siri & Shortcuts": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Siri & Shortcuts"
+          }
+        }
+      }
+    },
+    "Size": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Size"
+          }
+        }
+      }
+    },
+    "Skip tour": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Skip tour"
+          }
+        }
+      }
+    },
+    "Smallest": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Smallest"
+          }
+        }
+      }
+    },
+    "Some saved files are offline. They’ll be tried next launch.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Some saved files are offline. They’ll be tried next launch."
+          }
+        }
+      }
+    },
+    "Sources": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sources"
+          }
+        }
+      }
+    },
+    "Standard": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Standard"
+          }
+        }
+      }
+    },
+    "Static preview, Reduce Motion": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Static preview, Reduce Motion"
+          }
+        }
+      }
+    },
+    "Stopped. You can cancel any open draft in WhatsApp.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stopped. You can cancel any open draft in WhatsApp."
+          }
+        }
+      }
+    },
+    "Stopped. Your existing pages are safe.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stopped. Your existing pages are safe."
+          }
+        }
+      }
+    },
+    "Tap Scan to import with a compatible iPhone, choose images, or capture part of your screen. Continuity Camera availability depends on your Mac and iPhone setup. Screen capture may trigger a separate macOS permission prompt.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap Scan to import with a compatible iPhone, choose images, or capture part of your screen. Continuity Camera availability depends on your Mac and iPhone setup. Screen capture may trigger a separate macOS permission prompt."
+          }
+        }
+      }
+    },
+    "Tap a card for its actions. Hold Command and click more cards to select several files for sharing or PDF merging. Drag cards back into Finder or another app. The × removes a card from the shelf; it does not delete the original.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap a card for its actions. Hold Command and click more cards to select several files for sharing or PDF merging. Drag cards back into Finder or another app. The × removes a card from the shelf; it does not delete the original."
+          }
+        }
+      }
+    },
+    "Tap a card, then an action chip. Images can be converted, compressed, resized or stripped of metadata. PDFs can be compressed, split, merged with selected PDFs, or read as text. Any file can be zipped, revealed in Finder or copied as a path.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap a card, then an action chip. Images can be converted, compressed, resized or stripped of metadata. PDFs can be compressed, split, merged with selected PDFs, or read as text. Any file can be zipped, revealed in Finder or copied as a path."
+          }
+        }
+      }
+    },
+    "Tap a card’s forward arrow, or select several cards and use Send. The tray lists compatible macOS sharing services. More opens the full system picker; Copy puts files on the clipboard, and Save to saves a copy. Installed apps decide which services and file types they support.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tap a card’s forward arrow, or select several cards and use Send. The tray lists compatible macOS sharing services. More opens the full system picker; Copy puts files on the clipboard, and Save to saves a copy. Installed apps decide which services and file types they support."
+          }
+        }
+      }
+    },
+    "Testing guide": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Testing guide"
+          }
+        }
+      }
+    },
+    "Text copied!": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Text copied!"
+          }
+        }
+      }
+    },
+    "Text recognition took too long. Your pages are safe. Try again, or turn off Searchable text layer to create the PDF without OCR.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Text recognition took too long. Your pages are safe. Try again, or turn off Searchable text layer to create the PDF without OCR."
+          }
+        }
+      }
+    },
+    "Text stays on this Mac.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Text stays on this Mac."
+          }
+        }
+      }
+    },
+    "That PDF has no readable pages. Try another copy.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That PDF has no readable pages. Try another copy."
+          }
+        }
+      }
+    },
+    "That PDF is locked. Unlock it before scanning or reading its text.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That PDF is locked. Unlock it before scanning or reading its text."
+          }
+        }
+      }
+    },
+    "That action doesn’t work with this file.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That action doesn’t work with this file."
+          }
+        }
+      }
+    },
+    "That app didn’t finish the drop. Please try again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That app didn’t finish the drop. Please try again."
+          }
+        }
+      }
+    },
+    "That drop type isn’t available. Try dragging its file from Finder.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That drop type isn’t available. Try dragging its file from Finder."
+          }
+        }
+      }
+    },
+    "That file has no usable name.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That file has no usable name."
+          }
+        }
+      }
+    },
+    "That file is usable now, but macOS couldn’t save its access for next launch.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That file is usable now, but macOS couldn’t save its access for next launch."
+          }
+        }
+      }
+    },
+    "That file type isn’t allowed.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That file type isn’t allowed."
+          }
+        }
+      }
+    },
+    "That format doesn’t match this file.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That format doesn’t match this file."
+          }
+        }
+      }
+    },
+    "That image couldn’t be encoded. Try PNG or JPG instead.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That image couldn’t be encoded. Try PNG or JPG instead."
+          }
+        }
+      }
+    },
+    "That page is too large to render.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That page is too large to render."
+          }
+        }
+      }
+    },
+    "That shelf file is unavailable. Add it again or choose another file.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That shelf file is unavailable. Add it again or choose another file."
+          }
+        }
+      }
+    },
+    "That shortcut is unavailable (%d). Choose another combination.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "That shortcut is unavailable (%d). Choose another combination."
+          }
+        }
+      }
+    },
+    "The PNG export was incomplete. Your original is unchanged; please retry.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The PNG export was incomplete. Your original is unchanged; please retry."
+          }
+        }
+      }
+    },
+    "The encoder produced an empty file. Try another format.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The encoder produced an empty file. Try another format."
+          }
+        }
+      }
+    },
+    "The original file moved or went offline. Drop it again, then retry.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The original file moved or went offline. Drop it again, then retry."
+          }
+        }
+      }
+    },
+    "The pin keeps the panel open while you work. Otherwise it closes shortly after your pointer leaves, and stays open during an active task. Use the menu-bar icon or your shortcut if you prefer not to hover.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The pin keeps the panel open while you work. Otherwise it closes shortly after your pointer leaves, and stays open during an active task. Use the menu-bar icon or your shortcut if you prefer not to hover."
+          }
+        }
+      }
+    },
+    "The ring shows progress while the mascot works. You can cancel a media job or retry a failed action. A successful result gets a New card with the before-and-after size. Settings → Actions chooses quality, image format and whether to keep both cards or replace the source card. Original files are never overwritten.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The ring shows progress while the mascot works. You can cancel a media job or retry a failed action. A successful result gets a New card with the before-and-after size. Settings → Actions chooses quality, image format and whether to keep both cards or replace the source card. Original files are never overwritten."
+          }
+        }
+      }
+    },
+    "The service couldn’t finish. Retry.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The service couldn’t finish. Retry."
+          }
+        }
+      }
+    },
+    "The source app couldn’t provide that drop.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The source app couldn’t provide that drop."
+          }
+        }
+      }
+    },
+    "This Mac can’t convert that format.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This Mac can’t convert that format."
+          }
+        }
+      }
+    },
+    "This PDF has no selectable text. Scanned pages need OCR first.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This PDF has no selectable text. Scanned pages need OCR first."
+          }
+        }
+      }
+    },
+    "This PDF is locked or couldn’t be opened. Unlock it and try again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This PDF is locked or couldn’t be opened. Unlock it and try again."
+          }
+        }
+      }
+    },
+    "This attachment exceeds this app’s document size limit. Compress it, split it, or send it using another service.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This attachment exceeds this app’s document size limit. Compress it, split it, or send it using another service."
+          }
+        }
+      }
+    },
+    "This clip can’t fit the %@ limit at %@. %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "This clip can’t fit the %1$@ limit at %2$@. %3$@"
+          }
+        }
+      }
+    },
+    "This duration leaves too little room for usable video. Try a lower resolution or trim the clip.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This duration leaves too little room for usable video. Try a lower resolution or trim the clip."
+          }
+        }
+      }
+    },
+    "This file has no audio track to extract.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This file has no audio track to extract."
+          }
+        }
+      }
+    },
+    "This file has no audio track.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This file has no audio track."
+          }
+        }
+      }
+    },
+    "This file has no video to mute.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This file has no video to mute."
+          }
+        }
+      }
+    },
+    "This format needs a video track.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This format needs a video track."
+          }
+        }
+      }
+    },
+    "This image couldn’t be opened. Try another file.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This image couldn’t be opened. Try another file."
+          }
+        }
+      }
+    },
+    "This image has no readable pixels.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This image has no readable pixels."
+          }
+        }
+      }
+    },
+    "This photo is too dark to scan clearly. Try brighter light and keep the whole page in view.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This photo is too dark to scan clearly. Try brighter light and keep the whole page in view."
+          }
+        }
+      }
+    },
+    "This preset needs a video track.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This preset needs a video track."
+          }
+        }
+      }
+    },
+    "This running app": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This running app"
+          }
+        }
+      }
+    },
+    "This service doesn’t accept these files. Use Copy or Save to… and attach them as documents in the destination app.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This service doesn’t accept these files. Use Copy or Save to… and attach them as documents in the destination app."
+          }
+        }
+      }
+    },
+    "This tour explains the shelf, actions, scanning, sharing and permissions. Use Back or the progress bars to revisit a chapter. You can replay it from the menu bar or Settings → About.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This tour explains the shelf, actions, scanning, sharing and permissions. Use Back or the progress bars to revisit a chapter. You can replay it from the menu bar or Settings → About."
+          }
+        }
+      }
+    },
+    "Thumbnail": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thumbnail"
+          }
+        }
+      }
+    },
+    "Tiny": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tiny"
+          }
+        }
+      }
+    },
+    "Too large for WhatsApp": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Too large for WhatsApp"
+          }
+        }
+      }
+    },
+    "Too many requests. Try shortly.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Too many requests. Try shortly."
+          }
+        }
+      }
+    },
+    "Tour": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tour"
+          }
+        }
+      }
+    },
+    "Trim": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trim"
+          }
+        }
+      }
+    },
+    "Try again": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try again"
+          }
+        }
+      }
+    },
+    "Unlock WhatsApp and open any chat once, then retry. You’ll choose the actual recipients in the sharing picker.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unlock WhatsApp and open any chat once, then retry. You’ll choose the actual recipients in the sharing picker."
+          }
+        }
+      }
+    },
+    "Unpin overlay": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unpin overlay"
+          }
+        }
+      }
+    },
+    "Updates": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Updates"
+          }
+        }
+      }
+    },
+    "Updates coming soon": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Updates coming soon"
+          }
+        }
+      }
+    },
+    "Upload cancelled": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Upload cancelled"
+          }
+        }
+      }
+    },
+    "Upload expired. Start again.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Upload expired. Start again."
+          }
+        }
+      }
+    },
+    "Upload failed. Tap Retry.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Upload failed. Tap Retry."
+          }
+        }
+      }
+    },
+    "Upload paused. Tap Retry.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Upload paused. Tap Retry."
+          }
+        }
+      }
+    },
+    "Use 8–128 password characters.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use 8–128 password characters."
+          }
+        }
+      }
+    },
+    "Use OCR on an image or PDF to recognize text, including English and Hindi, then Copy text. Recognition depends on image clarity; review names and numbers. Barcode detection offers Open link for recognized web addresses. Vision processing stays on your Mac.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use OCR on an image or PDF to recognize text, including English and Hindi, then Copy text. Recognition depends on image clarity; review names and numbers. Barcode detection offers Open link for recognized web addresses. Vision processing stays on your Mac."
+          }
+        }
+      }
+    },
+    "Use folder": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use folder"
+          }
+        }
+      }
+    },
+    "Use manual mode": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use manual mode"
+          }
+        }
+      }
+    },
+    "Use ⌘, ⌃ or ⌥ with a letter, number, arrow or Space.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Use ⌘, ⌃ or ⌥ with a letter, number, arrow or Space."
+          }
+        }
+      }
+    },
+    "Version %@ (%@)": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "Version %1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "Video and audio too": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Video and audio too"
+          }
+        }
+      }
+    },
+    "Video thumbnail. Hover to preview and move horizontally to scrub.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Video thumbnail. Hover to preview and move horizontally to scrub."
+          }
+        }
+      }
+    },
+    "VideoToolbox couldn’t encode this clip. The encoder may be busy or unavailable on this Mac. Try WebM, or another video.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "VideoToolbox couldn’t encode this clip. The encoder may be busy or unavailable on this Mac. Try WebM, or another video."
+          }
+        }
+      }
+    },
+    "WAV": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WAV"
+          }
+        }
+      }
+    },
+    "Watch it work": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Watch it work"
+          }
+        }
+      }
+    },
+    "WebM": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WebM"
+          }
+        }
+      }
+    },
+    "WebP": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WebP"
+          }
+        }
+      }
+    },
+    "WhatsApp": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhatsApp"
+          }
+        }
+      }
+    },
+    "WhatsApp access confirmed": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhatsApp access confirmed"
+          }
+        }
+      }
+    },
+    "WhatsApp access unconfirmed": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhatsApp access unconfirmed"
+          }
+        }
+      }
+    },
+    "WhatsApp lost focus. Retry.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhatsApp lost focus. Retry."
+          }
+        }
+      }
+    },
+    "WhatsApp: you choose who gets it": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhatsApp: you choose who gets it"
+          }
+        }
+      }
+    },
+    "WhatsApp’s controls weren’t available. Cancel any open WhatsApp draft and retry, or use Show files.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "WhatsApp’s controls weren’t available. Cancel any open WhatsApp draft and retry, or use Show files."
+          }
+        }
+      }
+    },
+    "Working": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Working"
+          }
+        }
+      }
+    },
+    "Working on it": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Working on it"
+          }
+        }
+      }
+    },
+    "Yes, that one": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yes, that one"
+          }
+        }
+      }
+    },
+    "You can continue without this permission and return from Settings → Permission help. WhatsApp automation stays unavailable until access is confirmed.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You can continue without this permission and return from Settings → Permission help. WhatsApp automation stays unavailable until access is confirmed."
+          }
+        }
+      }
+    },
+    "Your deployed HTTPS link service. Local HTTP works in Debug.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your deployed HTTPS link service. Local HTTP works in Debug."
+          }
+        }
+      }
+    },
+    "Your files stay yours": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your files stay yours"
+          }
+        }
+      }
+    },
+    "Your original stays in place.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your original stays in place."
+          }
+        }
+      }
+    },
+    "Your save folder is unavailable. Choose another folder in Shelf settings.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your save folder is unavailable. Choose another folder in Shelf settings."
+          }
+        }
+      }
+    },
+    "Your settings": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your settings"
+          }
+        }
+      }
+    },
+    "Your shelf is empty. Choose an input file or add one first.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your shelf is empty. Choose an input file or add one first."
+          }
+        }
+      }
+    },
+    "Your shortcut": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Your shortcut"
+          }
+        }
+      }
+    },
+    "You’re ready. If access is revoked later, hover keeps working and WhatsApp will ask you to return here.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "You’re ready. If access is revoked later, hover keeps working and WhatsApp will ask you to return here."
+          }
+        }
+      }
+    },
+    "ZIP creation failed. Check file access and available disk space.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ZIP creation failed. Check file access and available disk space."
+          }
+        }
+      }
+    },
+    "audio · %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "audio · %@"
+          }
+        }
+      }
+    },
+    "bringing that in…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "bringing that in…"
+          }
+        }
+      }
+    },
+    "building PDF · %@…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "building PDF · %@…"
+          }
+        }
+      }
+    },
+    "building PDF…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "building PDF…"
+          }
+        }
+      }
+    },
+    "cancelled · originals kept.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "cancelled · originals kept."
+          }
+        }
+      }
+    },
+    "compress audio": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "compress audio"
+          }
+        }
+      }
+    },
+    "converting to %@…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "converting to %@…"
+          }
+        }
+      }
+    },
+    "copy path": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "copy path"
+          }
+        }
+      }
+    },
+    "done.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "done."
+          }
+        }
+      }
+    },
+    "encoding…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "encoding…"
+          }
+        }
+      }
+    },
+    "extract text": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "extract text"
+          }
+        }
+      }
+    },
+    "finding page edges…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "finding page edges…"
+          }
+        }
+      }
+    },
+    "finishing…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "finishing…"
+          }
+        }
+      }
+    },
+    "fits the size target.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "fits the size target."
+          }
+        }
+      }
+    },
+    "getting ready…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "getting ready…"
+          }
+        }
+      }
+    },
+    "giving those pages a fresh look…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "giving those pages a fresh look…"
+          }
+        }
+      }
+    },
+    "iPhone": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "iPhone"
+          }
+        }
+      }
+    },
+    "in Finder": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "in Finder"
+          }
+        }
+      }
+    },
+    "init(coder:) has not been implemented": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "init(coder:) has not been implemented"
+          }
+        }
+      }
+    },
+    "init(coder:) is not supported": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "init(coder:) is not supported"
+          }
+        }
+      }
+    },
+    "looking for codes…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "looking for codes…"
+          }
+        }
+      }
+    },
+    "macOS couldn’t prepare the image export.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS couldn’t prepare the image export."
+          }
+        }
+      }
+    },
+    "macOS formats only.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "macOS formats only."
+          }
+        }
+      }
+    },
+    "making it %@…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "making it %@…"
+          }
+        }
+      }
+    },
+    "merge PDFs": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "merge PDFs"
+          }
+        }
+      }
+    },
+    "merging PDF %lld…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "merging PDF %lld…"
+          }
+        }
+      }
+    },
+    "mute": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "mute"
+          }
+        }
+      }
+    },
+    "new file, larger size": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "new file, larger size"
+          }
+        }
+      }
+    },
+    "new size: %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "new size: %@"
+          }
+        }
+      }
+    },
+    "page %lld of %lld": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "new",
+            "value": "page %1$lld of %2$lld"
+          }
+        }
+      }
+    },
+    "path copied.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "path copied."
+          }
+        }
+      }
+    },
+    "read text": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "read text"
+          }
+        }
+      }
+    },
+    "reading media…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "reading media…"
+          }
+        }
+      }
+    },
+    "reading page %lld…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "reading page %lld…"
+          }
+        }
+      }
+    },
+    "reading pages for searchable text…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "reading pages for searchable text…"
+          }
+        }
+      }
+    },
+    "reading text · %@…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "reading text · %@…"
+          }
+        }
+      }
+    },
+    "reading the tiny print…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "reading the tiny print…"
+          }
+        }
+      }
+    },
+    "ready to go.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ready to go."
+          }
+        }
+      }
+    },
+    "removing EXIF and GPS…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "removing EXIF and GPS…"
+          }
+        }
+      }
+    },
+    "resizing…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "resizing…"
+          }
+        }
+      }
+    },
+    "same size, new file": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "same size, new file"
+          }
+        }
+      }
+    },
+    "saving PDF…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "saving PDF…"
+          }
+        }
+      }
+    },
+    "split pages": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "split pages"
+          }
+        }
+      }
+    },
+    "splitting page %lld…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "splitting page %lld…"
+          }
+        }
+      }
+    },
+    "strip metadata": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "strip metadata"
+          }
+        }
+      }
+    },
+    "that one didn’t work.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "that one didn’t work."
+          }
+        }
+      }
+    },
+    "there it is.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "there it is."
+          }
+        }
+      }
+    },
+    "trim": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "trim"
+          }
+        }
+      }
+    },
+    "zipping…": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "zipping…"
+          }
+        }
+      }
+    },
+    "~%lldm left": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "~%lldm left"
+          }
+        }
+      }
+    },
+    "~%llds left": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "~%llds left"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

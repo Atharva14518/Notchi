@@ -1,0 +1,101 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "Add files to ${applicationName}": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringSet": {
+            "state": "new",
+            "values": [
+              "Add files to ${applicationName}"
+            ]
+          }
+        }
+      }
+    },
+    "Clear my shelf in ${applicationName}": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringSet": {
+            "state": "new",
+            "values": [
+              "Clear my shelf in ${applicationName}"
+            ]
+          }
+        }
+      }
+    },
+    "Compress my latest file with ${applicationName}": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringSet": {
+            "state": "new",
+            "values": [
+              "Compress my latest file with ${applicationName}",
+              "Make my latest file smaller with ${applicationName}"
+            ]
+          }
+        }
+      }
+    },
+    "Convert my latest file with ${applicationName}": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringSet": {
+            "state": "new",
+            "values": [
+              "Convert my latest file with ${applicationName}"
+            ]
+          }
+        }
+      }
+    },
+    "Open my shelf in ${applicationName}": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringSet": {
+            "state": "new",
+            "values": [
+              "Open my shelf in ${applicationName}",
+              "Show my files in ${applicationName}"
+            ]
+          }
+        }
+      }
+    },
+    "Read my latest file with ${applicationName}": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringSet": {
+            "state": "new",
+            "values": [
+              "Read my latest file with ${applicationName}",
+              "Extract text with ${applicationName}"
+            ]
+          }
+        }
+      }
+    },
+    "Scan with ${applicationName}": {
+      "extractionState": "extracted_with_value",
+      "localizations": {
+        "en": {
+          "stringSet": {
+            "state": "new",
+            "values": [
+              "Scan with ${applicationName}",
+              "Open the scanner in ${applicationName}"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

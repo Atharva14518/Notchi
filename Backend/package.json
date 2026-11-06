@@ -1,0 +1,29 @@
+{
+  "name": "notchi-links",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev --log-level error",
+    "deploy": "wrangler deploy",
+    "check": "tsc --noEmit",
+    "test": "vitest run",
+    "build": "wrangler deploy --dry-run --outdir dist",
+    "dev:local": "wrangler dev --config wrangler.local.jsonc --log-level error",
+    "setup:local": "node scripts/setup-local.mjs",
+    "test:db": "python3 scripts-test-db.py",
+    "connect:local": "node scripts/connect-local.mjs",
+    "test:local": "node scripts/test-local.mjs"
+  },
+  "dependencies": {
+    "aws4fetch": "^1.0.20",
+    "hono": "^4.0.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261103.1",
+    "supabase": "3.0.0",
+    "typescript": "^5.9.0",
+    "vitest": "^3.2.0",
+    "wrangler": "^4.0.0"
+  }
+}

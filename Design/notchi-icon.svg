@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Reconstructed from the user's supplied Dropped image.png reference. -->
+  <rect x="0" y="0" width="1024" height="1024" rx="240" fill="#D4FF8C"/>
+  <rect x="372" y="-140" width="280" height="280" rx="80" fill="#0B0B0F"/>
+  <ellipse cx="380" cy="560" rx="46" ry="64" fill="#0B0B0F" data-eye="true"/>
+  <ellipse cx="644" cy="560" rx="46" ry="64" fill="#0B0B0F" data-eye="true"/>
+  <ellipse cx="512" cy="712" rx="34" ry="15" fill="#0B0B0F"/>
+</svg>
